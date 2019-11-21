@@ -1,0 +1,15 @@
+﻿<Window x:Class="Hotel.Reservation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel"
+        mc:Ignorable="d"
+        Title="Бронирование" Height="304.558" Width="418.371">
+    <Grid Margin="0,0,15,44">
+        <Button x:Name="zaselit" Content="Заселить клиента" FontSize ="22" HorizontalAlignment="Left" Margin="47,32,0,0" VerticalAlignment="Top" Width="321" Click="OpenZaselenieClienta"/>
+        <Button x:Name="delBron" Content="Удалить бронь" FontSize ="22" Margin="47,108,0,0" VerticalAlignment="Top" Height="32" HorizontalAlignment="Left" Width="323"/>
+        <Button x:Name="newBron" Content="Новая бронь" FontSize ="22" HorizontalAlignment="Left" Margin="47,185,0,0" VerticalAlignment="Top" Width="321"/>
+
+    </Grid>
+</Window>

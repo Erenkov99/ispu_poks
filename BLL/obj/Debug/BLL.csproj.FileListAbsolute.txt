@@ -1,0 +1,14 @@
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\BLL.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\BLL.pdb
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\DAL.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\Ninject.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\EntityFramework.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\DAL.pdb
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\DAL.dll.config
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\Ninject.xml
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\bin\Debug\EntityFramework.xml
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\obj\Debug\BLL.csproj.CopyComplete
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\obj\Debug\BLL.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\BLL\obj\Debug\BLL.pdb

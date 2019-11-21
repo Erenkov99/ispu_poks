@@ -1,0 +1,12 @@
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\DAL.dll.config
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\DAL.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\DAL.pdb
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\EntityFramework.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\EntityFramework.SqlServer.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\EntityFramework.xml
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\bin\Debug\EntityFramework.SqlServer.xml
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\obj\Debug\DAL.csproj.CopyComplete
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\obj\Debug\DAL.dll
+d:\учеба\Конструирование_ПО\Курсовой проект\Hotel\DAL\obj\Debug\DAL.pdb
